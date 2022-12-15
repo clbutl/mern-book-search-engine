@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mern-book-search-engine/static/css/main.fa7988ca.chunk.css",
+    "main.js": "/mern-book-search-engine/static/js/main.fac41327.chunk.js",
+    "main.js.map": "/mern-book-search-engine/static/js/main.fac41327.chunk.js.map",
+    "runtime-main.js": "/mern-book-search-engine/static/js/runtime-main.d54153cc.js",
+    "runtime-main.js.map": "/mern-book-search-engine/static/js/runtime-main.d54153cc.js.map",
+    "static/css/2.f26e749f.chunk.css": "/mern-book-search-engine/static/css/2.f26e749f.chunk.css",
+    "static/js/2.7d175a57.chunk.js": "/mern-book-search-engine/static/js/2.7d175a57.chunk.js",
+    "static/js/2.7d175a57.chunk.js.map": "/mern-book-search-engine/static/js/2.7d175a57.chunk.js.map",
+    "index.html": "/mern-book-search-engine/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "/mern-book-search-engine/static/css/2.f26e749f.chunk.css.map",
+    "static/css/main.fa7988ca.chunk.css.map": "/mern-book-search-engine/static/css/main.fa7988ca.chunk.css.map",
+    "static/js/2.7d175a57.chunk.js.LICENSE.txt": "/mern-book-search-engine/static/js/2.7d175a57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d54153cc.js",
+    "static/css/2.f26e749f.chunk.css",
+    "static/js/2.7d175a57.chunk.js",
+    "static/css/main.fa7988ca.chunk.css",
+    "static/js/main.fac41327.chunk.js"
+  ]
+}
