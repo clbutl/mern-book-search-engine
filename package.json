@@ -10,13 +10,12 @@
     "install": "cd server && npm i && cd ../client && npm i",
     "build": "cd client && npm run build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d client/build"
+    "deploy": "gh-pages -b main -d client/build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^5.1.0",
-    "gh-pages": "^4.0.0"
+    "concurrently": "^5.1.0"
   }
 }
