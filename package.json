@@ -1,5 +1,4 @@
 {
-  "homepage": "http://clbutl.github.io/mern-book-search-engine",
   "name": "googlebooks-app",
   "version": "1.0.0",
   "description": "",
@@ -17,8 +16,5 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  },
-  "dependencies": {
-    "gh-pages": "^4.0.0"
   }
 }
