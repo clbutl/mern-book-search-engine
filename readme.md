@@ -27,5 +27,4 @@
   ### <a style="text-decoration: none; color: white; font-weight: bold" id="github">GitHub Profile:</a>
   [clbutl's Profile Here](https://github.com/clbutl)
 
-
-  Deployed Application: N/A
+  Deployed Application: https://mernstack-book-search-engine.herokuapp.com/
